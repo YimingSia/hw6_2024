@@ -1,1 +1,2 @@
-# hw6_2024
+# hw7-2022
+Starter Code for HW7 - JavaScript basics with Video
